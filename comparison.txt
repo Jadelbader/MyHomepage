@@ -1,0 +1,8 @@
+Changes between bug commit and bug fix:
+1. I delet the clsing tag in html number one
+- Fixed missing closing tag in <html> element
+2. I delet the letter o in the body number one
+- Fixed missing letter 'o' in  <body>
++ git add comparison.txt
++ git commit -m "Added comparison summary"
++ git push origin main
